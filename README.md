@@ -2,7 +2,7 @@
 ## Instructions for setting up w/ Google Colab
 
 **Getting Started**
-1. Navigate to one of the notebooks [`BGC_one_float_data.ipynb`](https://github.com/go-bgc/2023-workshop-python/blob/main/BGC_one_float_data.ipynb) or [`BGC_region_data.ipynb`](https://github.com/go-bgc/2023-workshop-python/blob/main/BGC_region_data.ipynb) in this repository.
+1. Navigate to one of the notebooks [`BGC_one_float_data.ipynb`](https://github.com/go-bgc/2023-workshop-python/blob/main/BGC_one_float_data.ipynb) or [`BGC_region_data.ipynb`](https://github.com/go-bgc/2023-workshop-python/blob/main/BGC_region_float_data.ipynb) in this repository.
 2. Click the "Open in Colab" button at the top of the file that looks like:
 ![](img/2023-08-18-14-30-43.png)
 3. If needed, sign into your Google account. A standard, free, personal Google account is recommended, as not all institutional Google accounts allow Colab access to Google Drive.

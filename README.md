@@ -3,9 +3,10 @@
 
 **Getting Started**
 1. Navigate to one of the notebooks [`BGC_one_float_data.ipynb`](https://github.com/go-bgc/2023-workshop-python/blob/main/BGC_one_float_data.ipynb) or [`BGC_region_data.ipynb`](https://github.com/go-bgc/2023-workshop-python/blob/main/BGC_region_data.ipynb) in this repository.
-2. Click the "Open in Colab" button at the top of the file.
+2. Click the "Open in Colab" button at the top of the file that looks like:
+![](img/2023-08-18-14-30-43.png)
 3. If needed, sign into your Google account. A standard, free, personal Google account is recommended, as not all institutional Google accounts allow Colab access to Google Drive.
-4. In Google Colab, near the top menu bar, click on the button that says "Copy to Drive."
+4. In Google Colab, near the top menu bar, click on the button that says "Copy To Drive" ![Copy to Drive](img/2023-08-18-14-28-38.png)
 5. Switch to the browser tab with the newly created "Copy of GO-BGC Workshop - Python tutorial.ipynb" file. This version is editable and is saved in your Google Drive in a folder called "Colab Notebooks." You are ready to go!
 
 **About Google Colab:**

@@ -162,3 +162,5 @@ cython_debug/
 
 # cache directory
 /cache_bgc/
+
+.DS_STORE
